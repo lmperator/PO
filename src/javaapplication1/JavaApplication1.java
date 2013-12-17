@@ -18,3 +18,4 @@ public class JavaApplication1 {
     }
 }
 /// safdsaffasfsasafsafasaffsa
+// To jest zmiana!
